@@ -21,7 +21,7 @@ Dataset yang digunakan mencakup informasi tentang jumlah korban luka dan korban 
 
 ## Struktur Proyek
 - `accidental_deaths_children.csv`: Dataset asli yang digunakan dalam eksperimen.
-- `Naive_Bayes_Experiment.ipynb`: Notebook Jupyter berisi kode eksperimen dan analisis.
+- `Child_accidental_deaths_analysis.ipynb`: Notebook Jupyter berisi kode eksperimen dan analisis.
 - `README.md`: Dokumentasi proyek.
 
 ## Cara Menjalankan Proyek
