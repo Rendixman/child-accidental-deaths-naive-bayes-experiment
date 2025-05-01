@@ -1,0 +1,16 @@
+Dari yang saya pelajari dari materi sebelum UTS:
+  1.Data - Jenis & Kualitas
+Di bagian ini, saya belajar tentang berbagai jenis data, seperti data numerik dan kategori, serta pentingnya menjaga kualitas data, misalnya akurasi, kelengkapan, dan konsistensi.
+Kalau datanya nggak berkualitas, hasil analisis kita juga pasti jadi kurang valid.
+
+  2.Klasifikasi - Decision Tree & Naïve Bayes
+Decision Tree: Metode klasifikasi yang pakai struktur seperti pohon untuk mengambil keputusan. Sangat intuitif dan gampang dimengerti.
+Naïve Bayes: Ini metode berbasis probabilitas. Seru banget karena konsepnya sederhana, meski sebenarnya powerful buat beberapa jenis data.
+
+  3.Penerapan Klasifikasi dengan Python
+Python - Dasar-dasar: saya belajar dasar-dasar Python yang dipakai buat analisis data.
+Python - Decision Tree: Implementasi Decision Tree di Python pakai pustaka scikit-learn. Praktik langsung ini bikin konsepnya lebih gampang dipahami.
+
+  4.Evaluasi Kinerja Pengklasifikasi
+Terakhir, saya belajar cara mengevaluasi performa model klasifikasi. Ada banyak metrik yang bisa dipakai, seperti akurasi, precision, recall, F1-score, dan confusion matrix.
+Semua ini penting supaya kita tahu seberapa bagus model yang kita buat.
